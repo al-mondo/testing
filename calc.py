@@ -6,16 +6,16 @@ print "123."
 def add(x,y):
 	pass
 
-def subtrac(x,y):
-	pass
+def subtract(x,y):
+    return x - y
 
 def multiply(x, y):
-	return x * y;
+    return x * y
 
 def divide(x,y):
-	return x / y;
+    return x / y
 
 def square(x):
-	pass
+    pass
 
 
